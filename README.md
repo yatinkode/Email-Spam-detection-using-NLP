@@ -1,7 +1,6 @@
 # Email-Spam-detection-using-NLP
 Building a spam filter by predicting whether an email message is spam (junk email) or ham (good email).
 
-Data:
 | __Column name__    | __Detail__                                                 |
 |--------------------|------------------------------------------------------------|
 | text               |  Contains the subject and body of email in string format   |
