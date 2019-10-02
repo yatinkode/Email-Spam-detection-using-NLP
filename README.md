@@ -1,5 +1,6 @@
-# Email-Spam-detection-using-NLP
+# Email-Spam-detection-using- Natural Language Processing
 Building a spam filter by predicting whether an email message is spam (junk email) or ham (good email).
+Library used is NLTK in Python
 
 Dataset : emails.csv
 
